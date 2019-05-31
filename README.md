@@ -9,6 +9,8 @@ regardless of shell type**.
 
 ![screencast](https://i.imgur.com/ZbCUxNS.gif)
 
+**If you prefer Bash, have a look at https://github.com/bimlas/bash-mosh/**
+
 * **Manage multiple Git repositors together**
   * `push` and `pull` all of your repos at once
   * Checkout the same branch for project and its submodules
